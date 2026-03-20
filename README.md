@@ -29,7 +29,7 @@ Autonomous robot built on Arduino Nano (ATmega328), written in C++ with Platform
 ### Stack
 
 ```
-Languages   TypeScript · Python · C++ · JavaScript
+Languages   TypeScript · Python · C++ · JavaScript . C
 Backend     FastAPI · Node.js · MongoDB · PyMongo
 RAG/AI      Qdrant · BM25 · cross-encoder reranking · LLM APIs · MCP
 Frontend    React · CSS
