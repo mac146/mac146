@@ -1,4 +1,4 @@
-# mac146
+# Mayank
 
 Backend engineer with a thing for embedded systems and developer tooling.
 
