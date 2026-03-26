@@ -41,7 +41,7 @@ Tooling     GitHub REST API · Nodemailer · Swagger UI · uvicorn
 
 ### Stats
 
-![](https://github-readme-stats.vercel.app/api?username=mac146&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mac146&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
